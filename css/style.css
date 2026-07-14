@@ -255,6 +255,7 @@ body {
 /* ===== SECTIONS ===== */
 .section { padding: 110px 0; background: #fff; }
 .section-light { background: var(--bg-light); }
+.section-white { background: #fff; }
 
 .section-eyebrow {
   font-size: 0.75rem; font-weight: 700;
